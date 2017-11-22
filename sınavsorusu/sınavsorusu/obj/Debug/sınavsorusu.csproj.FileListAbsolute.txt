@@ -1,0 +1,9 @@
+c:\users\burak\documents\visual studio 2017\Projects\sınavsorusu\sınavsorusu\bin\Debug\sınavsorusu.exe.config
+c:\users\burak\documents\visual studio 2017\Projects\sınavsorusu\sınavsorusu\bin\Debug\sınavsorusu.exe
+c:\users\burak\documents\visual studio 2017\Projects\sınavsorusu\sınavsorusu\bin\Debug\sınavsorusu.pdb
+c:\users\burak\documents\visual studio 2017\Projects\sınavsorusu\sınavsorusu\obj\Debug\sınavsorusu.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2017\Projects\sınavsorusu\sınavsorusu\obj\Debug\sınavsorusu.Form1.resources
+c:\users\burak\documents\visual studio 2017\Projects\sınavsorusu\sınavsorusu\obj\Debug\sınavsorusu.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2017\Projects\sınavsorusu\sınavsorusu\obj\Debug\sınavsorusu.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2017\Projects\sınavsorusu\sınavsorusu\obj\Debug\sınavsorusu.exe
+c:\users\burak\documents\visual studio 2017\Projects\sınavsorusu\sınavsorusu\obj\Debug\sınavsorusu.pdb
